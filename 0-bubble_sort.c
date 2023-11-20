@@ -6,7 +6,8 @@
  * @array: The array to be sorted
  * @size: Number of elements in the array 
  * 
- */void bubble_sort(int *array, size_t size)
+ */
+void bubble_sort(int *array, size_t size)
 {
     size_t i, j, n;
 
